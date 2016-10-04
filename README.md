@@ -7,4 +7,4 @@ seuli's
 - [ ] `index.html`
 - [ ] `css/style.css`
 - [ ] `images/`
-[ ] `seuli`
+- `seuli`
