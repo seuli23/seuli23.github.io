@@ -6,4 +6,4 @@ seuli's
 ### Make Directories & Files
 - [ ] `index.html`
 - [ ] `css/style.css`
-- [ ] `images/`
+- [ ] images/
