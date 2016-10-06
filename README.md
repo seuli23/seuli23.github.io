@@ -1,9 +1,9 @@
 # seuli23.github.io
-seuli's
+23's portfolio website
 
-## TODO
+## WELCOME!
 
-### Make Directories & Files
+### This is the website
 - [ ] `index.html`
 - [ ] `css/style.css`
 - [ ] `images/`
