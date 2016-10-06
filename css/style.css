@@ -1,4 +1,7 @@
-style.cssbody {
+body {
+	margin: 0;
+	height: 100vh;
+	background: url("../images/photo-bg-1920.jpeg") no-repeat center;
 	color: #fff;
 
 	display: flex;
