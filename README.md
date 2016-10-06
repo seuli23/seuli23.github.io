@@ -4,6 +4,6 @@ seuli's
 ## TODO
 
 ### Make Directories & Files
-- [v] `index.html`
+- [ ] `index.html`
 - [ ] `css/style.css`
 - [ ] `images/`
