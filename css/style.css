@@ -1,0 +1,12 @@
+style.cssbody {
+	color: #fff;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+h1 {
+	font-weight: 600;
+	letter-spacing: 0.20em;
+}
