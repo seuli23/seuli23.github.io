@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	height: 100vh;
-
+	flex-direction: column;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -12,4 +12,7 @@ h1 {
 	letter-spacing: 0.20em;
 	color: #1b2369;
 	text-align: center;
+	margin-bottom: 0px;
+	margin-top: 40px;
+
 }
