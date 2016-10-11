@@ -5,14 +5,20 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	background: #f0efed;
+
 }
 
 h1 {
+	font-size: 2.5em;
 	font-weight: 900;
 	letter-spacing: 0.20em;
-	color: #1b2369;
+	color: #263b70;
 	text-align: center;
 	margin-bottom: 0px;
 	margin-top: 40px;
 
+}
+h3{
+	margin-top: 0;
 }
