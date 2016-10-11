@@ -1,15 +1,9 @@
 body {
 	margin: 0;
 	height: 100vh;
-	color: #fff;
-	letter-spacing: 0.20em
+	background: url("../images/coming-soon-01.png") no-repeat center;
 
 	display: flex;
 	justify-content: center;
 	align-items: center;
-}
-
-h1 {
-	font-weight: 600;
-	letter-spacing: 0.20em;
 }
