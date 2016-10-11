@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	height: 100vh;
 	background: url("../images/photo-bg-1920.jpeg") no-repeat center;
-	color: #fff;
+	color: #000;
 
 	display: flex;
 	justify-content: center;
