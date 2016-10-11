@@ -1,7 +1,6 @@
 body {
 	margin: 0;
 	height: 100vh;
-	color: #001344;
 	letter-spacing: 0.20em
 
 	display: flex;
@@ -12,4 +11,5 @@ body {
 h1 {
 	font-weight: 600;
 	letter-spacing: 0.20em;
+	color: #001344;
 }
