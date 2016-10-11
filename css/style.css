@@ -1,7 +1,6 @@
 body {
-	margin: 100;
+	margin: 400;
 	height: 100vh;
-	letter-spacing: 0.20em
 
 	display: flex;
 	justify-content: center;
