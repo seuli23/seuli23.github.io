@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta charset="UTF-8">
+	<title>CSS Album Cover Design</title>
+	<style>
+		body {margin: 0;}
+		.demo-container {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			height: 100vh;
+			background: radial-gradient(circle, #7d7d7d, #363636 80%);
+		}
+		.album-cover {
+			box-shadow: 0 0 10px hsla(0,0%,0%,.85);
+		}
+		.album {
+			position: relative;
+		}
+		.album * {
+			position: absolute;
+		}
+	</style>
+</head>
+<body>
+
+	<div class="demo-container">
+		<div class="album">
+			<img 
+				class="album-cover" 
+				src="images/Cover.png"
+				alt="cover"
+				width="244"
+				height="244">
+			<img 
+				class="vinyl" 
+				src="images/vynyl.png"
+				alt="CD"
+				width="42"
+				height="244">
+
+		</div>
+	</div>
+	<!-- album * -> album에 속한 모든 요소 라는 뜻 -->
+</body>
+</html>
